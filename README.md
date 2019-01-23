@@ -1,4 +1,5 @@
 # gitsample
 changes mad0
 
-jhgasyug samplee doing some changes
+samplee doing some changes
+sample changes done again
